@@ -1,5 +1,8 @@
 Changelog
 
+1.0.1
+-----
+test update E2D.
 1.0.0
 -----
 create E2D Initial version form E2D.tw 
